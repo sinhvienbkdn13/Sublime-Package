@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_encoding": "utf-8",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_accent_orange": true,
+	"material_theme_bold_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": false,
+	"save_on_focus_lost": true,
+	"telex": true,
+	"theme": "Material-Theme.sublime-theme"
+}

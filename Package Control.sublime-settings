@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"ColorPicker",
+		"Console Wrap for js",
+		"CSS Extended Completions",
+		"CSS3",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"HTML Nest Comments",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"Inc-Dec-Value",
+		"JavaScript Completions",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"PHP Completions Kit",
+		"php-snippets",
+		"Phpcs",
+		"PHPIntel",
+		"Quick File Open",
+		"StyleToken",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-php",
+		"SwapStrings",
+		"View In Browser",
+		"Vn Ime"
+	]
+}
