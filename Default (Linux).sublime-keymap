@@ -1,7 +1,7 @@
 [
-	{ "keys": ["super+v"], "command": "paste_and_indent" },
-	{ "keys": ["super+shift+v"], "command": "paste" },
-	{ "keys": ["super+shift+r"],  "command": "reindent" },
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"], "command": "paste" },
+	{ "keys": ["ctrl+shift+r"],  "command": "reindent" },
 	{ "keys": [ "ctrl+alt+v" ], "command": "view_in_browser" },
     { "keys": [ "f4" ], "command": "view_in_browser", "args": { "browser": "firefox" } },
     { "keys": [ "f5" ], "command": "view_in_browser", "args": { "browser": "chrome" } },

@@ -22,12 +22,15 @@
 		"DocBlockr",
 		"Git",
 		"GitGutter",
+		"Glue",
 		"HTML Nest Comments",
 		"HTMLAttributes",
 		"HTMLBeautify",
 		"Inc-Dec-Value",
 		"JavaScript Completions",
 		"jQuery",
+		"Laravel Blade Highlighter",
+		"Laravel Helper Completions",
 		"Material Theme",
 		"Package Control",
 		"PHP Completions Kit",
@@ -42,6 +45,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-php",
 		"SwapStrings",
+		"Terminal",
 		"View In Browser",
 		"Vn Ime"
 	]
